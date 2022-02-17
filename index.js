@@ -25,7 +25,7 @@ bot.on("ready", async() => {
     bot.user.setPresence({
         status: 'dnd',
         activity: {
-            name: 'Rainbow Color',
+            name: '❤️ Der Sieg ist mit mir',
             type: 'PLAYING',
         }
     })
